@@ -53,7 +53,7 @@
     ·
     <a href="/docs/readme_it.md">Italiano</a>
     ·
-    <a href="/docs.readme_pl.md">Polski</a>
+    <a href="/docs/readme_pl.md">Polski</a>
     ·
     <a href="/docs/readme_kr.md">한국어</a>
     ·
